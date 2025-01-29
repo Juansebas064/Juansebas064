@@ -30,7 +30,7 @@
 
 <div align="center">
   <h2>🌱 Currently learning 📚</h2>
-  <img src="https://skillicons.dev/icons?i=angular,php,kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </div>
 
 <hr>
