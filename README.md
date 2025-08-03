@@ -23,15 +23,15 @@
 <div align="center">
   <h2>👨‍💻 Technologies 🛠️</h2>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,tailwind,nodejs,expressjs,electron" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,linux,windows,kotlin,androidstudio" />
 </div>
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🌱 Currently learning 📚</h2>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
-</div>
+</div> -->
 
 <hr>
 
