@@ -8,11 +8,11 @@
 
 <div align="center">
   
-  🔭 I’m currently working on `web` and `android` projects
+  🔭 I’m currently working on `android` and `web` projects
 
   ⚡ I'm interested in `Linux` customization and brand new `tech` products
 
-  ⬆️ I'm always looking for `improve` my `skills` and gain `rewarding experiences`
+  ⬆️ I'm always looking for `improve` my `skills` and getting `rewarding experiences`
   
 </div>
 
